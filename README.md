@@ -68,7 +68,7 @@ Multi-line comments: Windows/Linux: `Shift + Alt + A`
 - **Tailwind vs. Bootstrap:**  
 My take: Tailwind is like LEGO blocks, flexible and customizable. Bootstrap is a framework with opinionated classes that often need overwriting. Tailwind's richer ecosystem and modern tools make it better for long-term maintainability.    
 - **How to Install Bootstrap with NPM:**  
-YouTube Tutorial: [https://www.youtube.com/watch?v=WPAiTlQr7no&t=139s](https://www.youtube.com/watch?v=WPAiTlQr7no&t=139s)
+YouTube Tutorial: [https://www.youtube.com/watch?v=WPAiTlQr7no&t=139s](https://www.youtube.com/watch?v=WPAiTlQr7no&t=139s)  
 GeeksforGeeks Guide: [https://www.geeksforgeeks.org/how-to-install-bootstrap-5](https://www.geeksforgeeks.org/how-to-install-bootstrap-5)
 - **This Incomplete Tutorial:**  
 The rest of the content involved the author selecting Bootstrap classes, me using a cheat sheet and official docs to understand class usage, and the author overwriting many of the classes.   
