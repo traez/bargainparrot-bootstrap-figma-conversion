@@ -1,0 +1,43 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+@font-face {
+  font-family: 'Edu VIC WA NT Beginner SemiBold';
+  src: url('./fonts/EduVICWANTBeginner-Regular.ttf') format('truetype'),
+       url('./fonts/EduVICWANTBeginner-Medium.ttf') format('truetype'),
+       url('./fonts/EduVICWANTBeginner-SemiBold.ttf') format('truetype'),
+       url('./fonts/EduVICWANTBeginner-Bold.ttf') format('truetype');
+}
+
+* {
+  utline: 1px solid black;
+  --bs-body-font-family: "Trebuchet MS", 'Edu VIC WA NT Beginner SemiBold', sans-serif;
+}
+
+.head-section {
+  background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-link {
+  font-size: 18px !important;
+  font-weight: 500;
+}
+
+/*
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+*/
