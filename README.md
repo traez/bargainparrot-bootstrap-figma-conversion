@@ -37,7 +37,7 @@ This is a Figma to HTML/Bootstrap conversion gig I got. Design is available [her
 ### Links
 
 - Solution URL: [https://github.com/traez/bargainparrot-bootstrap-figma-conversion](https://github.com/traez/bargainparrot-bootstrap-figma-conversion)
-- Live Site URL: [https://bargainparrot-bootstrap-figma-conversion-trae-zeeofors-projects.vercel.app/](https://https://bargainparrot-bootstrap-figma-conversion-trae-zeeofors-projects.vercel.app/)
+- Live Site URL: [https://bargainparrot-bootstrap-figma-conversion-trae-zeeofors-projects.vercel.app/](https://bargainparrot-bootstrap-figma-conversion-trae-zeeofors-projects.vercel.app/)
 
 ## My process
 
